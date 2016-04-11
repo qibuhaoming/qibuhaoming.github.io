@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-11T14:25:53.139Z</updated>
+  <updated>2016-04-11T14:31:06.782Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,42 +16,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2016计划</title>
+    <title>2016年ToDo清单</title>
     <link href="http://yoursite.com/2016/04/11/2016%E8%AE%A1%E5%88%92/"/>
     <id>http://yoursite.com/2016/04/11/2016计划/</id>
     <published>2016-04-11T14:25:53.000Z</published>
-    <updated>2016-04-11T14:25:53.139Z</updated>
+    <updated>2016-04-11T14:31:06.782Z</updated>
     
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2016/04/11/hello-world/"/>
-    <id>http://yoursite.com/2016/04/11/hello-world/</id>
-    <published>2016-04-11T14:01:42.102Z</published>
-    <updated>2016-04-11T14:01:42.106Z</updated>
-    
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;h2 id=&quot;一-2016年要做的事&quot;&gt;&lt;a href=&quot;#一-2016年要做的事&quot; class=&quot;headerlink&quot; title=&quot;一 2016年要做的事&quot;&gt;&lt;/a&gt;一 2016年要做的事&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;清单&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;[ ] 学好英语&lt;/li&gt;
+&lt;li&gt;[ ] 坚持写博客&lt;/li&gt;
+&lt;li&gt;[ ] 健身&lt;/li&gt;
+&lt;li&gt;[ ] 技术文章&lt;/li&gt;
+&lt;li&gt;[ ] 看书,拓展自己的视野&lt;/li&gt;
+&lt;li&gt;[ ] 学会做饭&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;二-详细清单&quot;&gt;&lt;a href=&quot;#二-详细清单&quot; class=&quot;headerlink&quot; title=&quot;二 详细清单&quot;&gt;&lt;/a&gt;二 详细清单&lt;/h2&gt;&lt;h3 id=&quot;2-1-学好英语&quot;&gt;&lt;a href=&quot;#2-1-学好英语&quot; class=&quot;headerlink&quot; title=&quot;2.1 学好英语&quot;&gt;&lt;/a&gt;2.1 学好英语&lt;/h3&gt;&lt;h4 id=&quot;2-1-1-背单词&quot;&gt;&lt;a href=&quot;#2-1-1-背单词&quot; class=&quot;headerlink&quot; title=&quot;2.1.1 背单词&quot;&gt;&lt;/a&gt;2.1.1 背单词&lt;/h4&gt;&lt;p&gt;| 日期 | 时间(分) | 内容 | 反馈|&lt;/p&gt;
+&lt;p&gt; 2016-04-11| 120| 210个单词|用百词斩背,有图容易联想,但也有避免弊端,容易猜到意思.&lt;/p&gt;
+&lt;h4 id=&quot;2-1-2-学习语法&quot;&gt;&lt;a href=&quot;#2-1-2-学习语法&quot; class=&quot;headerlink&quot; title=&quot;2.1.2 学习语法&quot;&gt;&lt;/a&gt;2.1.2 学习语法&lt;/h4&gt;&lt;p&gt;| 日期 | 时间(分) | 内容 | 反馈|&lt;/p&gt;
+&lt;h3 id=&quot;2-2-坚持写博客&quot;&gt;&lt;a href=&quot;#2-2-坚持写博客&quot; class=&quot;headerlink&quot; title=&quot;2.2 坚持写博客&quot;&gt;&lt;/a&gt;2.2 坚持写博客&lt;/h3&gt;&lt;p&gt;学而不思则罔,思而不学则殆.&lt;br&gt;| 日期 | 时间(分) | 内容 | 反馈|&lt;/p&gt;
+&lt;h3 id=&quot;2-3-健身&quot;&gt;&lt;a href=&quot;#2-3-健身&quot; class=&quot;headerlink&quot; title=&quot;2.3 健身&quot;&gt;&lt;/a&gt;2.3 健身&lt;/h3&gt;&lt;p&gt;| 日期 | 时间(分) | 内容 | 反馈|&lt;br&gt;2016年1月 |  未统计  | 跑步  |10次累积累积57.7KM&lt;br&gt;2016年2月 |  未统计  | 跑步  |7次累积累积41.01KM&lt;br&gt;2016年3月 |  未统计  | 跑步  |5次累积累积29.45KM&lt;br&gt;2016年4月1~11日 |  未统计  | 跑步  |4次累积累积26.30KM  &lt;/p&gt;
+&lt;h3 id=&quot;2-4-技术文章&quot;&gt;&lt;a href=&quot;#2-4-技术文章&quot; class=&quot;headerlink&quot; title=&quot;2.4 技术文章&quot;&gt;&lt;/a&gt;2.4 技术文章&lt;/h3&gt;&lt;p&gt;| 日期 | 时间(分) | 内容 | 反馈|&lt;/p&gt;
+&lt;h3 id=&quot;2-5-看书&quot;&gt;&lt;a href=&quot;#2-5-看书&quot; class=&quot;headerlink&quot; title=&quot;2.5 看书&quot;&gt;&lt;/a&gt;2.5 看书&lt;/h3&gt;&lt;p&gt;| 日期 | 时间(分) | 内容 | 反馈|&lt;br&gt;2016-04-10 | 180  | 抗压力 [日] 久世浩司  | 已看完,有帮助,但没有整理笔记,需要再看并整理&lt;/p&gt;
+&lt;h3 id=&quot;2-6-学会做饭&quot;&gt;&lt;a href=&quot;#2-6-学会做饭&quot; class=&quot;headerlink&quot; title=&quot;2.6 学会做饭&quot;&gt;&lt;/a&gt;2.6 学会做饭&lt;/h3&gt;&lt;p&gt;| 日期 | 时间(分) | 内容 | 反馈|&lt;br&gt;2016-04-11 | 无统计  | 无  | 基本家常饭都可以做,但是味道一般.佐料的用途不清楚,刀工一般.&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;h2 id=&quot;一-2016年要做的事&quot;&gt;&lt;a href=&quot;#一-2016年要做的事&quot; class=&quot;headerlink&quot; title=&quot;一 2016年要做的事&quot;&gt;&lt;/a&gt;一 2016年要做的事&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;清单&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;
     
     </summary>
     
